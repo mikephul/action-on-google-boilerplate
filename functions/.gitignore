@@ -1,0 +1,7 @@
+node_modules
+etc
+lib
+*.log
+.vscode
+.env
+.firebaserc
